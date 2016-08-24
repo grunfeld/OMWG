@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OMWG</string>
+    <string name="play_button_text">Play</string>
+    <string name="help_button_text">Help</string>
+    <string name="to_main_menu_button_text">Main Menu</string>
+    <string name="options_button_text">Options</string>
+    <string name="play_again_title">Play again</string>
+    <string name="all_words_title">All possible words (Hyperlinked)</string>
+    <string name="comp_words_title">Computer\'s words</string>
+    <string name="player_words_title">Your words</string>
+    <string name="end_word_button_text">End\nword</string>
+    <string name="purge_word_symbol">X</string>
+    <string name="backspace_symbol">&lt;</string>
+    <string name="min_word_length_opt">Allow 3-letter words?</string>
+    <string name="free_play_opt">Free play (no time controls)</string>
+</resources>
